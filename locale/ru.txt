@@ -1,0 +1,29 @@
+#: locale=ru
+
+## Media
+
+### Title
+panorama_F5F09716_FE1C_E866_41A6_F3EB336192D3.label = 1
+panorama_F4B8F330_FE1C_A8BA_41EF_312B6D91A10E.label = 2.1
+panorama_F482B96E_FE1C_B8A9_41C5_49B3017A4E9B.label = 2.2
+panorama_F4831F7D_FE1C_B8AA_41CB_B5A641026668.label = 2.3
+panorama_F482B5CB_FE1C_ABEE_41E9_3E873E9DD72A.label = 2.4
+panorama_F48299E9_FE1C_9BAB_41CE_6475DE57F2A4.label = 2.5
+panorama_F482CDD0_FE1C_9BFA_41D1_E964B3D4F3B0.label = 2.6
+panorama_F4838197_FE1C_6867_41C9_709B522DDACA.label = 2.7
+panorama_F483955D_FE1C_68EA_414F_AAB53DA8D8C1.label = 3.1
+panorama_F483C8E3_FE1C_79DF_41D1_FF1CE0974F50.label = 3.2
+panorama_F4838C98_FE1C_7869_41E0_16ED22474799.label = 4.1
+panorama_F483F07F_FE1C_68A6_41E4_D274308B620C.label = 4.2
+
+## Skin
+
+### Label
+label4056.text = Виртуальная экскурсия
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
